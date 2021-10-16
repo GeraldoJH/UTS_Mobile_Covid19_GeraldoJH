@@ -3,7 +3,7 @@
  
  
  
- Revisi Jurnal : https://docs.google.com/document/d/1fuRqh4Xqv9k4EKfVbYDR-MQOBkFs6HQxAcX_hCupbEo/edit
+ Revisi Jurnal : https://docs.google.com/document/d/1fuRqh4Xqv9k4EKfVbYDR-MQOBkFs6HQxAcX_hCupbEo/edit?usp=sharing
  
 
 
