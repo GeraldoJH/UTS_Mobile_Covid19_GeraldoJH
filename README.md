@@ -1,5 +1,10 @@
 # COVID-19 - UTS
  Mengetahui Pengertian Covid-19,Varian,Cara Mencegah terkena.
+ 
+ 
+ 
+ Revisi Jurnal : https://docs.google.com/document/d/1fuRqh4Xqv9k4EKfVbYDR-MQOBkFs6HQxAcX_hCupbEo/edit
+ 
 
 
 ### Built With
