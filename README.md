@@ -4,7 +4,7 @@
 ### Built With
 - Flutter
 ### VideoDemo
-- Dapat didownload melalui Github atau dapat dilihat melalui link https://drive.google.com/file/d/1Q5ohjz_cV8xovx-EyfHYbGss8JdOFp5M/view?usp=sharing
+- Dapat didownload melalui Github atau melalui link https://drive.google.com/file/d/1Q5ohjz_cV8xovx-EyfHYbGss8JdOFp5M/view?usp=sharing
 ### Created By
 - Geraldo Julius Halim
 ---
